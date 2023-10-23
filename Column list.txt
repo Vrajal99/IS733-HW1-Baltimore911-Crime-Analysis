@@ -1,0 +1,6 @@
+CrimeDate, CrimeTime, CrimeCode, Location, Description, Inside/Outside, Weapon, Post, District, Neighborhood, Longitude, Latitude, Location 1, Premise, vri_name1, Total Incidents
+
+
+cannot import name 'DataError' from 'pandas.core.base' (C:\Users\vraja\anaconda3\Lib\site-packages\pandas\core\base.py)
+
+
